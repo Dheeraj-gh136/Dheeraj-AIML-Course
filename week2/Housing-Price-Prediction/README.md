@@ -1,4 +1,4 @@
-Housing Price Prediction Project
+Housing Price Prediction Project: 
 This project implements a machine learning pipeline to predict house prices using the Boston Housing dataset. It covers data exploration, preprocessing, model training, and evaluation with visualizations. Built as part of Week 2 of the AIML Course. 
 
 Dataset:
