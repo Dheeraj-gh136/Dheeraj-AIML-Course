@@ -1,7 +1,9 @@
 Housing Price Prediction Project: 
+
 This project implements a machine learning pipeline to predict house prices using the Boston Housing dataset. It covers data exploration, preprocessing, model training, and evaluation with visualizations. Built as part of Week 2 of the AIML Course. 
 
 Dataset:
+
 Uses the classic Boston Housing dataset (506 samples, 13 features) from Scikit-learn. Predicts median house prices (MEDV) in $1000s based on crime rates, rooms, accessibility to highways, etc. 
 
 | Sample Features | Description               |
